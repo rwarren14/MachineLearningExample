@@ -1,4 +1,4 @@
-# MachineLearningExample
+# Machine Learning Example
 
 This is a side project for learning purposes.
 
